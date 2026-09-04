@@ -4,5 +4,6 @@ package_name: dasel
 github_repo: TomWright/dasel
 artifact_format: gz
 description: "Query and modify data structures using selector strings"
+license: MIT
 
 # Build for all Debian suites and all supported architectures.
