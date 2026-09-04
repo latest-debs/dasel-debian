@@ -1,0 +1,8 @@
+# Package definition for dasel
+
+package_name: dasel
+github_repo: TomWright/dasel
+artifact_format: tar.gz
+description: "Query and modify data structures using selector strings"
+
+# Build for all Debian suites and all supported architectures.
